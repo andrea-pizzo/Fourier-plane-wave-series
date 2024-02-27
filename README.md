@@ -1,4 +1,4 @@
-# TWC23
+# TWC22
 
 This MATLAB script is designed to compute the variances of Fourier random coefficients as described in Eq. (30). The computation is based on
 the power angle spectrum outlined in Eq. (31), as presented in the article:
